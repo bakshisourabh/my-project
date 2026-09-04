@@ -13,6 +13,7 @@
 - **MySQL** – Database management
 - **Git/GitHub** – Source code management and version control
 - **Image** - New image added
+- **Git/GitHub** – Source code management and version control
 
 ## Project Architecture
 

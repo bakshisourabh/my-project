@@ -6,12 +6,13 @@
 
 ## Technologies Used
 
-* **HTML5** – Web page structure and semantic markup
-* **CSS3** – Styling, responsive layouts, animations, and UI design
-* **Angular** – Frontend application, components, routing, forms, services, and API integration
-* **PHP** – Backend APIs, business logic, authentication, and database communication
-* **MySQL** – Database management
-* **Git/GitHub** – Source code management and version control
+- **HTML5** – Web page structure and semantic markup
+- **CSS3** – Styling, responsive layouts, animations, and UI design
+- **Angular** – Frontend application, components, routing, forms, services, and API integration
+- **PHP** – Backend APIs, business logic, authentication, and database communication
+- **MySQL** – Database management
+- **Git/GitHub** – Source code management and version control
+- **Image** - New image added
 
 ## Project Architecture
 
@@ -48,19 +49,19 @@ my-project/
 
 ## Main Features
 
-* Responsive web interface
-* Angular-based frontend
-* Reusable Angular components
-* Angular routing
-* Form validation
-* REST API integration
-* PHP backend
-* MySQL database integration
-* CRUD operations
-* User authentication
-* Error handling
-* Responsive HTML/CSS design
-* Secure API communication
+- Responsive web interface
+- Angular-based frontend
+- Reusable Angular components
+- Angular routing
+- Form validation
+- REST API integration
+- PHP backend
+- MySQL database integration
+- CRUD operations
+- User authentication
+- Error handling
+- Responsive HTML/CSS design
+- Secure API communication
 
 ## Frontend
 
@@ -68,14 +69,14 @@ The frontend is developed using Angular with HTML and CSS.
 
 Angular is responsible for:
 
-* Application structure
-* Components
-* Routing
-* Forms
-* Data binding
-* API calls
-* Client-side validation
-* User interface
+- Application structure
+- Components
+- Routing
+- Forms
+- Data binding
+- API calls
+- Client-side validation
+- User interface
 
 ## Backend
 
@@ -83,13 +84,13 @@ The backend is developed using PHP.
 
 PHP is responsible for:
 
-* REST APIs
-* Business logic
-* Authentication
-* Database operations
-* CRUD functionality
-* Server-side validation
-* Error handling
+- REST APIs
+- Business logic
+- Authentication
+- Database operations
+- CRUD functionality
+- Server-side validation
+- Error handling
 
 ## Database
 
@@ -177,7 +178,7 @@ into MySQL/phpMyAdmin.
 Configure the Angular environment/API configuration:
 
 ```typescript
-apiUrl = 'http://localhost/my-project/backend/api';
+apiUrl = "http://localhost/my-project/backend/api";
 ```
 
 ## Development Workflow
@@ -230,18 +231,18 @@ git push origin feature/new-feature
 
 ## Future Improvements
 
-* JWT authentication
-* Role-based access control
-* Admin dashboard
-* Advanced search
-* Pagination
-* File/image upload
-* Email notifications
-* API documentation
-* Automated testing
-* Docker deployment
-* CI/CD pipeline
-* Cloud deployment
+- JWT authentication
+- Role-based access control
+- Admin dashboard
+- Advanced search
+- Pagination
+- File/image upload
+- Email notifications
+- API documentation
+- Automated testing
+- Docker deployment
+- CI/CD pipeline
+- Cloud deployment
 
 ## License
 
